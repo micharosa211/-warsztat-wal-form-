@@ -10,7 +10,7 @@ const validate = (event) => {
     
     let textName = document.getElementById('name');
     let txtEmail = document.getElementById('email');
-    let agree1 = document.getElementById('agree1');
+    let agree1 = document.getElementById('zgoda1');
     let errors = document.getElementById('errors');
 
     errors.innerHTML = '';
